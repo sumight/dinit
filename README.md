@@ -12,7 +12,7 @@ dinit 可以定义自己的目录模板，然后在一个空的目录中用模�
 ## 查看和设置模板仓库的位置
 
 ```shell
-~ dinit where --path /Users/apple/tpls
+~ sudo dinit where --path /Users/apple/tpls
 ```
 
 设置模板仓库位置为`/Users/apple/tpls`
